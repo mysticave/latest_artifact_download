@@ -1,2 +1,2 @@
-# latest_artifact_download
+# LATEST ARTIFACT DOWNLOAD
 Downloading latest artifact from an Artifactory repository using shell script
